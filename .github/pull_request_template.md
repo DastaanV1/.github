@@ -12,6 +12,7 @@ List the commands or checks you ran and their results. Record relevant limitatio
 
 ## Review
 
+- [ ] I ran the Dastaan naming check for project identifiers, file contents and paths (R-PROC-08).
 - [ ] I checked permissions, tenant isolation and secret handling where applicable.
 - [ ] I reviewed migration compatibility, idempotency and retries where applicable.
 - [ ] I updated the affected contracts, docs and runbooks.
